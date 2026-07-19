@@ -1,8 +1,8 @@
-# World Cup Final: Argentina vs Spain — Monte Carlo Model
+# World Cup Final: Argentina vs Spain using Monte Carlo Model
 
-A statistical sports-analytics exercise, **not** a prediction of any real scheduled
-match. It fits a Dixon-Coles / Poisson attack-defence model to real historical
-international results and simulates a hypothetical neutral-venue World Cup final
+A stat based simulation, **not** a prediction of any real scheduled
+match. It fits a Dixon-Coles attack-defence model to real historical
+international results and simulates a hypothetical World Cup final
 between Argentina and Spain 500,000 times, including extra time and penalty shootouts.
 
 ## Data
